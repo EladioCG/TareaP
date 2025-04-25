@@ -1,0 +1,10 @@
+Pasos para ejecutar el programa 
+
+1. Instalar lasa bibliotecas externas de React Navigation
+
+    1.1: Ejecutar "npm install @react-navigation/native" (esta biblioteca funciona para el manejo de rutas, es como un router).
+    1.2: Ejecutar "npm install @react-navigation/native-stack" (esta biblioteca funciona para la navegacion de pantallas).
+
+2. Tener instalado el Node.js 
+4. Iniciar un emulador android 
+5. Ejecutar "npx expo start" para ejecutar el programa 
