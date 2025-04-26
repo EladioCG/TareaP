@@ -1,11 +1,19 @@
-Pasos para ejecutar el programa 
+#Lista de personas
+Esta es una app en React Native con Expo.
+Esta app consume la API (https://tiusr13pl.cuc-carrera-ti.ac.cr/apipersonas/api/Persona) para mostrar una lista de personas.
+También tiene una pantalla de carga mientras se cargan los datos.
 
-1. Instalar lasa bibliotecas externas de React Navigation
+Pasos para ejecutar el programa
+1. Instalar las bibliotecas externas de React Navigation:
 
-    1.1: Ejecutar "npm install @react-navigation/native" (esta biblioteca funciona para el manejo de rutas, es como un router).
-    1.2: Ejecutar "npm install @react-navigation/native-stack" (esta biblioteca funciona para la navegacion de pantallas).
+    1.1: Ejecutar npm install @react-navigation/native (esta biblioteca se utiliza para el manejo de rutas, es como un router).
 
-2. Tener instalado el Node.js 
-4. Iniciar un emulador android 
-5. Ejecutar "npx expo start" para ejecutar el programa 
-6. Precionar la tecla "a" para correr el app en un dispositivo Android
+    1.2: Ejecutar npm install @react-navigation/native-stack (esta biblioteca se utiliza para la navegación entre pantallas).
+
+2. Tener instalado Node.js.
+
+3. Iniciar un emulador Android.
+
+4. Ejecutar npx expo start para iniciar el programa.
+
+5. Presionar la tecla "a" para correr la app en un dispositivo Android.
