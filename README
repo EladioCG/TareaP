@@ -8,3 +8,4 @@ Pasos para ejecutar el programa
 2. Tener instalado el Node.js 
 4. Iniciar un emulador android 
 5. Ejecutar "npx expo start" para ejecutar el programa 
+6. Precionar la tecla "a" para correr el app en un dispositivo Android
